@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmad 👋
 
-Master's student in Computer Science (ML/Deep Learning/AI) at Bishop's University, based in Ottawa.
+Computer Science graduate (ML, Deep Learning, AI) from Bishop's University in Sherbrooke, Quebec — now based in Ottawa.
 
 I build end-to-end ML systems — from model training to deployed, working apps.
 
